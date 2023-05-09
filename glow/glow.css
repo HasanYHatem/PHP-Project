@@ -1,0 +1,359 @@
+/* glow classes */
+
+/* -- text glow */
+
+.glow-white-1 {
+  text-shadow: 0px 0px 1px white;
+}
+
+.glow-white-2 {
+  text-shadow: 0px 0px 1px white, 0px 0px 2px white;
+}
+
+.glow-white-3 {
+  text-shadow: 0px 0px 1px white, 0px 0px 2px white, 0px 0px 3px white;
+}
+
+.glow-white-4 {
+  text-shadow: 0px 0px 1px white, 0px 0px 2px white, 0px 0px 3px white, 0px 0px 4px white;
+}
+
+.glow-skyblue-1 {
+  text-shadow: 0px 0px 1px deepskyblue;
+}
+
+.glow-skyblue-2 {
+  text-shadow: 0px 0px 1px deepskyblue, 0px 0px 2px deepskyblue;
+}
+
+.glow-skyblue-3 {
+  text-shadow: 0px 0px 1px deepskyblue, 0px 0px 2px deepskyblue, 0px 0px 3px deepskyblue;
+}
+
+.glow-skyblue-4 {
+  text-shadow: 0px 0px 1px deepskyblue, 0px 0px 2px deepskyblue, 0px 0px 3px deepskyblue, 0px 0px 4px deepskyblue;
+}
+
+.glow-gray-1 {
+  text-shadow: 0px 0px 1px gray;
+}
+
+.glow-gray-2 {
+  text-shadow: 0px 0px 1px gray, 0px 0px 2px gray;
+}
+
+.glow-gray-3 {
+  text-shadow: 0px 0px 1px gray, 0px 0px 2px gray, 0px 0px 3px gray;
+}
+
+.glow-gray-4 {
+  text-shadow: 0px 0px 1px gray, 0px 0px 2px gray, 0px 0px 3px gray, 0px 0px 4px gray;
+}
+
+.glow-black-1 {
+  text-shadow: 0px 0px 1px black;
+}
+
+.glow-black-2 {
+  text-shadow: 0px 0px 1px black, 0px 0px 2px black;
+}
+
+.glow-black-3 {
+  text-shadow: 0px 0px 1px black, 0px 0px 2px black, 0px 0px 3px black;
+}
+
+.glow-black-4 {
+  text-shadow: 0px 0px 1px black, 0px 0px 2px black, 0px 0px 3px black, 0px 0px 4px black;
+}
+
+.glow-gold-1 {
+  text-shadow: 0px 0px 1px gold;
+}
+
+.glow-gold-2 {
+  text-shadow: 0px 0px 1px gold, 0px 0px 2px gold;
+}
+
+.glow-gold-3 {
+  text-shadow: 0px 0px 1px gold, 0px 0px 2px gold, 0px 0px 3px gold;
+}
+
+.glow-gold-4 {
+  text-shadow: 0px 0px 1px gold, 0px 0px 2px gold, 0px 0px 3px gold, 0px 0px 4px gold;
+}
+
+.glow-yellow-1 {
+  text-shadow: 0px 0px 1px yellow;
+}
+
+.glow-yellow-2 {
+  text-shadow: 0px 0px 1px yellow, 0px 0px 2px yellow;
+}
+
+.glow-yellow-3 {
+  text-shadow: 0px 0px 1px yellow, 0px 0px 2px yellow, 0px 0px 3px yellow;
+}
+
+.glow-yellow-4 {
+  text-shadow: 0px 0px 1px yellow, 0px 0px 2px yellow, 0px 0px 3px yellow, 0px 0px 4px yellow;
+}
+
+.glow-lime-1 {
+  text-shadow: 0px 0px 1px lime;
+}
+
+.glow-lime-2 {
+  text-shadow: 0px 0px 1px lime, 0px 0px 2px lime;
+}
+
+.glow-lime-3 {
+  text-shadow: 0px 0px 1px lime, 0px 0px 2px lime, 0px 0px 3px lime;
+}
+
+.glow-lime-4 {
+  text-shadow: 0px 0px 1px lime, 0px 0px 2px lime, 0px 0px 3px lime, 0px 0px 4px lime;
+}
+
+.glow-cyan-1 {
+  text-shadow: 0px 0px 1px cyan;
+}
+
+.glow-cyan-2 {
+  text-shadow: 0px 0px 1px cyan, 0px 0px 2px cyan;
+}
+
+.glow-cyan-3 {
+  text-shadow: 0px 0px 1px cyan, 0px 0px 2px cyan, 0px 0px 3px cyan;
+}
+
+.glow-cyan-4 {
+  text-shadow: 0px 0px 1px cyan, 0px 0px 2px cyan, 0px 0px 3px cyan, 0px 0px 4px cyan;
+}
+
+.glow-blue-1 {
+  text-shadow: 0px 0px 1px blue;
+}
+
+.glow-blue-2 {
+  text-shadow: 0px 0px 1px blue, 0px 0px 2px blue;
+}
+
+.glow-blue-3 {
+  text-shadow: 0px 0px 1px blue, 0px 0px 2px blue, 0px 0px 3px blue;
+}
+
+.glow-blue-4 {
+  text-shadow: 0px 0px 1px blue, 0px 0px 2px blue, 0px 0px 3px blue, 0px 0px 4px blue;
+}
+
+.glow-red-1 {
+  text-shadow: 0px 0px 1px red;
+}
+
+.glow-red-2 {
+  text-shadow: 0px 0px 1px red, 0px 0px 2px red;
+}
+
+.glow-red-3 {
+  text-shadow: 0px 0px 1px red, 0px 0px 2px red, 0px 0px 3px red;
+}
+
+.glow-red-4 {
+  text-shadow: 0px 0px 1px red, 0px 0px 2px red, 0px 0px 3px red, 0px 0px 4px red;
+}
+
+.glow-green-1 {
+  text-shadow: 0px 0px 1px green;
+}
+
+.glow-green-2 {
+  text-shadow: 0px 0px 1px green, 0px 0px 2px green;
+}
+
+.glow-green-3 {
+  text-shadow: 0px 0px 1px green, 0px 0px 2px green, 0px 0px 3px green;
+}
+
+.glow-green-4 {
+  text-shadow: 0px 0px 1px green, 0px 0px 2px green, 0px 0px 3px green, 0px 0px 4px green;
+}
+
+/* -- box glow */
+
+.box-glow-white-1 {
+  box-shadow: 0px 0px 1px white;
+}
+
+.box-glow-white-2 {
+  box-shadow: 0px 0px 1px white, 0px 0px 2px white;
+}
+
+.box-glow-white-3 {
+  box-shadow: 0px 0px 1px white, 0px 0px 2px white, 0px 0px 3px white;
+}
+
+.box-glow-white-4 {
+  box-shadow: 0px 0px 1px white, 0px 0px 2px white, 0px 0px 3px white, 0px 0px 4px white;
+}
+
+.box-glow-skyblue-1 {
+  box-shadow: 0px 0px 1px deepskyblue;
+}
+
+.box-glow-skyblue-2 {
+  box-shadow: 0px 0px 1px deepskyblue, 0px 0px 2px deepskyblue;
+}
+
+.box-glow-skyblue-3 {
+  box-shadow: 0px 0px 1px deepskyblue, 0px 0px 2px deepskyblue, 0px 0px 3px deepskyblue;
+}
+
+.box-glow-skyblue-4 {
+  box-shadow: 0px 0px 1px deepskyblue, 0px 0px 2px deepskyblue, 0px 0px 3px deepskyblue, 0px 0px 4px deepskyblue;
+}
+
+.box-glow-gray-1 {
+  box-shadow: 0px 0px 1px gray;
+}
+
+.box-glow-gray-2 {
+  box-shadow: 0px 0px 1px gray, 0px 0px 2px gray;
+}
+
+.box-glow-gray-3 {
+  box-shadow: 0px 0px 1px gray, 0px 0px 2px gray, 0px 0px 3px gray;
+}
+
+.box-glow-gray-4 {
+  box-shadow: 0px 0px 1px gray, 0px 0px 2px gray, 0px 0px 3px gray, 0px 0px 4px gray;
+}
+
+.box-glow-black-1 {
+  box-shadow: 0px 0px 1px black;
+}
+
+.box-glow-black-2 {
+  box-shadow: 0px 0px 1px black, 0px 0px 2px black;
+}
+
+.box-glow-black-3 {
+  box-shadow: 0px 0px 1px black, 0px 0px 2px black, 0px 0px 3px black;
+}
+
+.box-glow-black-4 {
+  box-shadow: 0px 0px 1px black, 0px 0px 2px black, 0px 0px 3px black, 0px 0px 4px black;
+}
+
+.box-glow-gold-1 {
+  box-shadow: 0px 0px 1px gold;
+}
+
+.box-glow-gold-2 {
+  box-shadow: 0px 0px 1px gold, 0px 0px 2px gold;
+}
+
+.box-glow-gold-3 {
+  box-shadow: 0px 0px 1px gold, 0px 0px 2px gold, 0px 0px 3px gold;
+}
+
+.box-glow-gold-4 {
+  box-shadow: 0px 0px 1px gold, 0px 0px 2px gold, 0px 0px 3px gold, 0px 0px 4px gold;
+}
+
+.box-glow-yellow-1 {
+  box-shadow: 0px 0px 1px yellow;
+}
+
+.box-glow-yellow-2 {
+  box-shadow: 0px 0px 1px yellow, 0px 0px 2px yellow;
+}
+
+.box-glow-yellow-3 {
+  box-shadow: 0px 0px 1px yellow, 0px 0px 2px yellow, 0px 0px 3px yellow;
+}
+
+.box-glow-yellow-4 {
+  box-shadow: 0px 0px 1px yellow, 0px 0px 2px yellow, 0px 0px 3px yellow, 0px 0px 4px yellow;
+}
+
+.box-glow-lime-1 {
+  box-shadow: 0px 0px 1px lime;
+}
+
+.box-glow-lime-2 {
+  box-shadow: 0px 0px 1px lime, 0px 0px 2px lime;
+}
+
+.box-glow-lime-3 {
+  box-shadow: 0px 0px 1px lime, 0px 0px 2px lime, 0px 0px 3px lime;
+}
+
+.box-glow-lime-4 {
+  box-shadow: 0px 0px 1px lime, 0px 0px 2px lime, 0px 0px 3px lime, 0px 0px 4px lime;
+}
+
+.box-glow-cyan-1 {
+  box-shadow: 0px 0px 1px cyan;
+}
+
+.box-glow-cyan-2 {
+  box-shadow: 0px 0px 1px cyan, 0px 0px 2px cyan;
+}
+
+.box-glow-cyan-3 {
+  box-shadow: 0px 0px 1px cyan, 0px 0px 2px cyan, 0px 0px 3px cyan;
+}
+
+.box-glow-cyan-4 {
+  box-shadow: 0px 0px 1px cyan, 0px 0px 2px cyan, 0px 0px 3px cyan, 0px 0px 4px cyan;
+}
+
+.box-glow-blue-1 {
+  box-shadow: 0px 0px 1px blue;
+}
+
+.box-glow-blue-2 {
+  box-shadow: 0px 0px 1px blue, 0px 0px 2px blue;
+}
+
+.box-glow-blue-3 {
+  box-shadow: 0px 0px 1px blue, 0px 0px 2px blue, 0px 0px 3px blue;
+}
+
+.box-glow-blue-4 {
+  box-shadow: 0px 0px 1px blue, 0px 0px 2px blue, 0px 0px 3px blue, 0px 0px 4px blue;
+}
+
+.box-glow-red-1 {
+  box-shadow: 0px 0px 1px red;
+}
+
+.box-glow-red-2{
+box-shadow:0px 0px 1px red, 0px 0px 2px red;
+}
+
+.box-glow-red-3 {
+  box-shadow: 0px 0px 1px red, 0px 0px 2px red, 0px 0px 3px red;
+}
+
+.box-glow-red-4 {
+  box-shadow: 0px 0px 1px red, 0px 0px 2px red, 0px 0px 3px red, 0px 0px 4px red;
+}
+
+.box-glow-green-1 {
+  box-shadow: 0px 0px 1px green;
+}
+
+.box-glow-green-2 {
+  box-shadow: 0px 0px 1px green, 0px 0px 2px green;
+}
+
+.box-glow-green-3 {
+  box-shadow: 0px 0px 1px green, 0px 0px 2px green, 0px 0px 3px green;
+}
+
+.box-glow-green-4 {
+  box-shadow: 0px 0px 1px green, 0px 0px 2px green, 0px 0px 3px green, 0px 0px 4px green;
+}
+
+/* glow classes end */
